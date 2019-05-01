@@ -1,0 +1,88 @@
+/* Formula start*/
+
+.formula {
+	display: inline-block;
+	width: 350px;
+	padding-bottom: 10px;
+}
+
+.formula-content {
+	display: flex;
+	align-items: center;
+}
+
+.formula-draft {
+	height: 140px;
+}
+
+.sequence-text {
+	padding-right: 10px;
+}
+
+.number-text {
+	padding: 0 2px;
+}
+
+.operator-text {
+	padding: 0 5px;
+}
+
+.fraction-integer{
+	display: inline-block;
+	text-align: center;
+}
+
+.fraction-fraction {
+	display: inline-block;
+	text-align: center;
+}
+
+.fraction-text {
+	display: flex;
+	align-items: center;
+}
+
+.fraction-semicolon {
+	border: #000000 0.5px solid;
+}
+
+.hidden {
+	display: none;
+}
+
+/* Formula end*/
+
+/* Setting start*/
+
+.setting {
+	margin-bottom: 10px;
+	border-bottom: #000000 solid 1px;
+}
+
+.setting .horizontal {
+	padding: 5px 0;
+}
+
+.setting .horizontal .cell {
+	display: inline-block;
+	padding: 0 10px;
+}
+
+.setting label {
+	vertical-align: middle;
+}
+
+.setting input[type='number'] {
+	margin-left: 5px;
+	width: 50px;
+}
+
+.setting input[type='checkbox'] {
+	vertical-align: middle;
+}
+
+.setting input[type='radio'] {
+	vertical-align: middle;
+}
+
+/* Setting end*/
