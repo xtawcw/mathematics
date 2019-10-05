@@ -1,5 +1,5 @@
-var title = "口算练习";
-var informations = ["姓名", "日期", "用时"];
+锘縱ar title = "鍙ｇ畻缁冧範";
+var informations = ["濮撳悕", "鏃ユ湡", "鐢ㄦ椂"];
 $(function(){
 	var $body = $(document.body);
 	
