@@ -9,7 +9,7 @@ $(function(){
 	});
 	$body.append($title);
 	
-	var $informations = $("<h2 />", {
+	var $informations = $("<div />", {
 		"class": "title"
 	});
 	for(var i=0; i<informations.length; i++){
