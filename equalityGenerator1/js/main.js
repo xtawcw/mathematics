@@ -1,4 +1,4 @@
-﻿var title = "口算练习";
+﻿var title = "口算练习1级";
 var informations = ["姓名", "日期", "用时"];
 $(function(){
 	var $body = $(document.body);

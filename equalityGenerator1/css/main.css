@@ -2,6 +2,13 @@ h1.title{
 	margin-top: 100px;
 }
 
+div.title {
+	margin-top: 30px;
+}
+.content{
+	margin-top: 30px;
+}
+
 .title {
 	text-align: center;
 }
