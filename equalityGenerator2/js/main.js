@@ -1,7 +1,7 @@
 ﻿var title = "口算练习1-1";
 var informations = ["姓名", "日期", "用时"];
 $(function(){
-	for(var i=0;i<10;i++){
+	for(var i=0;i<1;i++){
 		render();
 	}
 });
