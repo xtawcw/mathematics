@@ -39,7 +39,7 @@ function render(){
 		"class": "content"
 	});
 	
-	for(var i=0; i<40; i++){
+	for(var i=0; i<20; i++){
 		var equality = getEquality();
 		
 		var $row = $("<li />", {
