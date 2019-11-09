@@ -1,0 +1,40 @@
+h1.title{
+	margin-top: 60px;
+}
+
+div.title {
+	margin-top: 70px;
+}
+.content{
+	margin-top: 30px;
+}
+
+.title {
+	text-align: center;
+}
+
+.inline {
+	display: inline-block;
+}
+
+.information.item {
+	margin: auto 30px
+}
+
+.information .text {
+	width: 100px;
+	border-bottom: solid 1px #000000;
+}
+
+.content .equality{
+	margin: 10px 60px;
+}
+
+.content .equality.addition {
+	width: 280px;
+	margin-left: 10;
+}
+
+.content .equality.multiplication{
+	text-align: center;
+}
