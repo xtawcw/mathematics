@@ -1,4 +1,4 @@
-﻿var title = "口算练习1-4";
+﻿var title = "口算练习-1-4";
 var informations = ["姓名", "日期", "用时"];
 var _operators = ['+', '-', '×'];
 var number = 0;
