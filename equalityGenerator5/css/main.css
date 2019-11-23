@@ -1,0 +1,60 @@
+h1.title{
+	margin-top: 60px;
+}
+
+div.title {
+	margin-top: 70px;
+}
+.content{
+	margin-top: 30px;
+}
+
+.title {
+	text-align: center;
+}
+
+.inline {
+	display: inline-block;
+}
+
+.information.item {
+	margin: auto 30px
+}
+
+.information .text {
+	width: 100px;
+	border-bottom: solid 1px #000000;
+}
+
+.content .equality{
+	margin: 9px 60px;
+	width: 150px;
+	margin-left: 10px;
+}
+
+.equality .item.operand{
+	width: 20px;
+}
+
+.equality .item.operator{
+	width: 15px;
+}
+
+.equality .item.result{
+	width: 20px;
+}
+
+.equality .item{
+	text-align: center;
+}
+
+.page-break {
+	page-break-after: always;
+}
+
+
+/* override */
+div.toast-container{
+	width: inherit;
+	max-width: 400px;
+}
